@@ -1,5 +1,5 @@
 ## Hi, I'm Pritika 👋
-![LinkedIn Banner](https://github.com/username/repository/blob/main/images/demo.gif)
+![](https://github.com/PRITIKA10/PRITIKA10/blob/main/assets/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif)
 
 
 <!--
