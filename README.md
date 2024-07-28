@@ -1,6 +1,7 @@
 <h1 style="text-align: center;">Hi, I'm Pritika 👋</h1>
-<img src="https://github.com/PRITIKA10/PRITIKA10/blob/main/assets/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" style="max-width:100%; height:auto;"/>
-
+<p align="center">
+  <img src="https://github.com/PRITIKA10/PRITIKA10/blob/main/assets/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="Description of GIF" width="100%">
+</p>
 
 ## About Me
 👩‍🎓 Studying **Computer Engineering** at Pune Institute of Computer Technology  
