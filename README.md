@@ -1,5 +1,5 @@
-<h1 style="text-align: center;">Hi, I'm Pritika 👋</h1>
 <p align="center">
+  <h1 style="text-align: center;">Hi, I'm Pritika 👋</h1>
   <img src="https://github.com/PRITIKA10/PRITIKA10/blob/main/assets/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="Description of GIF" width="100%">
 </p>
 
