@@ -3,9 +3,9 @@
 ![](https://github.com/PRITIKA10/PRITIKA10/blob/main/assets/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif)
 
 ## About Me
-👩‍🎓 Studying **Computer Engineering** at Pune Institute of Computer Technology
-🤖 Learning about Machine Learning, Natural Language Processing, and Backend Development
-📫 **How to reach me:** [roherapritika@gmail.com](mailto:roherapritika@gmail.com)
+👩‍🎓 Studying **Computer Engineering** at Pune Institute of Computer Technology  
+🤖 Learning about Machine Learning, Natural Language Processing, and Backend Development  
+📫 **How to reach me:** [roherapritika@gmail.com](mailto:roherapritika@gmail.com)  
 <!--
 **PRITIKA10/PRITIKA10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
