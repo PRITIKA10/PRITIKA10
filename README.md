@@ -5,7 +5,7 @@
 
 ## About Me
 👩‍🎓 Studying **Computer Engineering** at Pune Institute of Computer Technology  
-🤖 Learning about Machine Learning, Natural Language Processing, and Backend Development  
+🤖 Learning about Machine Learning (specifically Natural Language Processing).  
 📫 **How to reach me:** [roherapritika@gmail.com](mailto:roherapritika@gmail.com)  
 
 ## Languages, Frameworks and Tools  
